@@ -28,6 +28,11 @@
     color: rgb(226, 226, 226);
     font-size: 20px;
 }
+
+.calculator form input[type="button"]:hover{
+    background: radial-gradient(circle, #797979, #a0a0a0);
+    border: 1px solid rgb(173, 173, 173);
+}
 form input[type="button"].equal{
     width: 145px;
 }
